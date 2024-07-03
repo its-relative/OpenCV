@@ -20,11 +20,6 @@ This repository contains a collection of OpenCV projects and experiments, showca
 	+ **Reading&Writing.ipynb**: Tutorial on reading and writing images using OpenCV.
 	+ **test.ipynb**: Test notebook for experimenting with OpenCV functions.
 
-## Files
---------
-
-* **(link unavailable)**: This file! Contains an overview of the repository and its contents.
-
 ## Getting Started
 -------------------
 
